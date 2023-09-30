@@ -1,5 +1,5 @@
 ## Repositorio para "Modelado de Base de Datos e Introducción a SQL"
-## Repository for "Database Model Design and Intro to SQL" 
+## Repository for "Database Model Design and Intro to SQL" subject
 ---
 ### *Contenido del repositorio*  
 · 'Flota_DJ.drawio': Diagrama Entidad-Relación en formato nativo para el software Draw.IO  
@@ -38,4 +38,3 @@ that you can free and instantly use it to open the .drawio file.
 In addition to grouping by semantics, exhaustive Normalization has been carried out in the design.  
 · After designing the schema, DBMS DBeaver CE has been used to implement and to create the SQL server and create and run the script.
 You can use your favorite SQL client.
-
