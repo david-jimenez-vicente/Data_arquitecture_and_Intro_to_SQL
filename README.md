@@ -1,5 +1,5 @@
-## Repositorio para "Modelado de Datos e Introducción a SQL"
-## Repository for "Data arquitecture and Intro to SQL" 
+## Repositorio para "Modelado de Base de Datos e Introducción a SQL"
+## Repository for "Database Model Design and Intro to SQL" 
 ---
 ### *Contenido del repositorio*  
 · 'Flota_DJ.drawio': Diagrama Entidad-Relación en formato nativo para el software Draw.IO  
